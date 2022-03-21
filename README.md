@@ -12,11 +12,11 @@ The deep clustering algorithm can learn the latent features of the embedded subs
 
 ## Platform
 
-This code was developed and tested with: 
-h5py==2.10.0
-scikit-learn==0.22
-tensorflow-gpu==1.15.0
-keras==2.1.6
+This code was developed and tested with: ,<br>
+h5py==2.10.0 ,<br>
+scikit-learn==0.22 ,<br>
+tensorflow-gpu==1.15.0 ,<br>
+keras==2.1.6 ,<br>
 
 
 
